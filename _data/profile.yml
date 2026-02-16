@@ -1,61 +1,121 @@
-primary_name: "Your Name"
+primary_name: "Yue Deng"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Yue Deng"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: PhD
+- name: HKUST
+  logo: /assets/images/badges/hkust2.jpg  # Logo is optional
 
 
-email: "your@email.com"
+email: "ydengbi@cse.ust.hk"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: x2D3aWEAAAAJ&hl=en&authuser=1  # This is an example, replace it with your own Google Scholar ID
+#github: your_github_id
+#twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+### linkedin: your-linked-in-id
+orcid: 0009-0008-5339-8792
 
+
+#A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Thanks for coming to my website! Please feel free to reach out! ✨
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am a PhD candidate in the Computer Science and Engineering Department, Hong Kong University of Science and Technology supervised by inspiring <a href="https://www.cse.ust.hk/~bli/" target="_blank">Dr. Bo Li</a> with the research direction of Human-Computer Interaction. During the journey, I also received wonderful and professional guidance from <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a> in the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy.
+  </p>
+  <p> 
+   My research lies at the intersection of <strong>human–computer interaction (HCI) </strong>and <strong>computer security and privacy (S&P)</strong>, with a focus on the understanding and intervention of digital harms in socio-technical systems. I investigate how digital harms are generated, experienced and mitigated in the digital area. I am committed to interdisciplinary work that addresses two core questions: (1) how do individuals and communities experience and respond to digital harms, and (2) how can human-centered interventions and system designs support harm mitigation and recovery? I pay particular attention to vulnerable groups, such as older adults and marginalized voices. My work aims to design inclusive computing approaches to improve their <strong>safety, agency and digital well-being</strong>. 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  <p>My recent work focuses on three main directions:</p>
+  <ul>
+    <li>
+      <strong>Cybercrime Prevention and Defense</strong>:
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137" target="_blank">intergenerational support and challenges in online scam defense (CHI'25)</a> | <a href="https://arxiv.org/pdf/2601.12324" target="_blank">anti-scam interventions through role-based simulations (CHI'26)</a> | scam-driven human trafficking  (CHI'26) | <a href="https://arxiv.org/pdf/2601.16050" target="_blank">individual resilience after cybercrime (CHI'26)</a>
+    </li>
+    <li>
+      <strong>Digital Harms in Online Ecosystems</strong>:
+          <a href="https://dl.acm.org/doi/epdf/10.1145/3613904.3642194" target="_blank">gender debate in everyday feminism (CHI'24)</a> | <a href="https://dl.acm.org/doi/epdf/10.1145/3613904.3642194" target="_blank">overwhelmed help-seeking during crises (CSCW'22)</a>
+    </li>
+    <li>
+      <strong>Inclusive Computing</strong>:
+          <a href="https://arxiv.org/pdf/2601.12300" target="_blank">older adults’ biometric payment experiences (CHI'26)</a> | <a href="https://collinsmunyendo.github.io/papers/2026_Oakland_Security_Advice.pdf" target="_blank">security and privacy advice in the majority world (IEEE S&P'26)</a>
+    </li>
 
-education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  </ul>
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+portrait_url: /assets/images/photos/yue_deng.jpeg
+#portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+#education:
+#- name: Massachusetts Institute of Technology
+#  logo: /assets/images/badges/MIT_Social_circle.png
+#  position: >- 
+#    Department of Electrical Engineering and Computer Science <br/>
+#    Ph.D. Student
+#  date: Sep. 2024 - present
+#- name: Peking University
+#  logo: /assets/images/badges/PKU_red.png
+#  position: B.S. in Computer Science
+#  date: Sep. 2019 - Jul. 2021
+
+experience:
+ - name: Max Planck Institute for Security and Privacy
+   logo: /assets/images/badges/mpisp.jpg
+   position: Research Intern
+   date: Jan. 2025 - Dec. 2025
+ - name: Hong Kong University of Science and Technology
+   logo: /assets/images/badges/hkust2.jpg
+   position: Research Assistant
+   date: Jan. 2022 - July 2022
+ - name: Tsinghua University
+   logo: /assets/images/badges/tsinghua.png
+   position: Research Intern
+   date: May 2021 - Sep. 2021
+ - name: London School of Economics and Political Science
+   logo: /assets/images/badges/lse.png
+   position: Exchange student
+   date: July 2019 - Aug. 2019
+
 
 awards:
-- name: Award Name 2
+- name: PhD Overseas Research Award
+  date: 2025
+  organization: HKUST
+- name: The Most Impactful Paper Award @SIGCHI GBA Pre-CHI
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  organization: GBA HCI Forum
+- name: Impact Recognition Award @CSCW
+  date: 2022
+  organization: CSCW
+- name: RedBird Academic Excellence Award
+  date: 2022
+  organization: HKUST
+- name: National Scholarship (1%)
+  date: 2020
+  organization: Ministry of Education of the People’s Republic of China
+- name: Mathematical Contest in Modeling Finalist Prize (0.17%)
+  date: 2020
+  organization: COMAP
+- name: Outstanding Graduate
+  date: 2020
+  organization: Chongqing Municipal Education Commission
+- name: Merit Student
+  date: 2020
+  organization: Chongqing Municipal Education Commission
+- name: Advanced Individual in Innovation Ability
+  date: 2020
+  organization: Chongqing Municipal Education Commission
+- name: Entrepreneurship Award
+  date: 2020
+  organization: Southwest University
+- name: First Grade Scholarship
+  date: 2019
+  organization: Southwest University
