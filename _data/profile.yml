@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yue Deng"
 
 positions:
-- name: PhD
+- name: PhD Candidate
 - name: HKUST
   logo: /assets/images/badges/hkust2.jpg  # Logo is optional
 
@@ -30,7 +30,7 @@ short_bio: >-
     I am a PhD candidate in the Computer Science and Engineering Department, Hong Kong University of Science and Technology supervised by inspiring <a href="https://www.cse.ust.hk/~bli/" target="_blank">Dr. Bo Li</a> with the research direction of Human-Computer Interaction. During the journey, I also received wonderful and professional guidance from <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a> in the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy.
   </p>
   <p> 
-   My research lies at the intersection of <strong>human–computer interaction (HCI) </strong>and <strong>computer security and privacy (S&P)</strong>, with a focus on the understanding and intervention of digital harms in socio-technical systems. I investigate how digital harms are generated, experienced and mitigated in the digital area. I am committed to interdisciplinary work that addresses two core questions: (1) how do individuals and communities experience and respond to digital harms, and (2) how can human-centered interventions and system designs support harm mitigation and recovery? I pay particular attention to vulnerable groups, such as older adults and marginalized voices. My work aims to design inclusive computing approaches to improve their <strong>safety, agency and digital well-being</strong>. 
+   My research lies at the intersection of <strong>human–computer interaction (HCI) </strong>and <strong>computer security and privacy (S&P)</strong>, with a focus on the understanding and intervention of digital harms in socio-technical systems. I investigate how digital harms are generated, experienced and mitigated in the digital area. I am committed to interdisciplinary work that addresses two core questions: (1) how do individuals and communities experience and respond to digital harms, and (2) how can human-centered interventions and system designs support harm mitigation and recovery? I pay particular attention to vulnerable groups, such as older adults. My work aims to design inclusive computing approaches to improve their <strong>safety, agency and digital well-being</strong>. 
   </p>
 
   <p>My recent work focuses on three main directions:</p>
