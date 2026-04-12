@@ -1,11 +1,11 @@
 ---
-title:          "\"There is no way my own sister would scam me\": Understanding Narratives Around Scam-Driven Human Trafficking Across Chinese Borders on RedNote"
+title:          "🏆 Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote"
 date:           2026-04-17 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ACM Conference on Human Factors in Computing Systems (CHI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">🏆 Best Paper Award</span>'
 pub_date:       "2026"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
@@ -18,7 +18,7 @@ authors:
 - Shujun Li
 - Yixin Zou
 - Jingjie Li
-#links:
-#  Paper: https://arxiv.org/pdf/2601.12324
+links:
+  Paper: https://arxiv.org/pdf/2603.26520
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

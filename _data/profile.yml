@@ -37,7 +37,7 @@ short_bio: >-
   <ul>
     <li>
       <strong>Cybercrime Prevention and Defense</strong>:
-          <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137" target="_blank">intergenerational support and challenges in online scam defense (CHI'25)</a> | <a href="https://arxiv.org/pdf/2601.12324" target="_blank">anti-scam interventions through role-based simulations (CHI'26)</a> | scam-driven human trafficking  (CHI'26) | <a href="https://arxiv.org/pdf/2601.16050" target="_blank">individual resilience after cybercrime (CHI'26)</a>
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137" target="_blank">intergenerational support and challenges in online scam defense (CHI'25)</a> | <a href="https://arxiv.org/pdf/2601.12324" target="_blank">anti-scam interventions through role-based simulations (CHI'26)</a> | <a href="https://arxiv.org/pdf/2603.26520" target="_blank">scam-driven human trafficking  (CHI'26) | <a href="https://arxiv.org/pdf/2601.16050" target="_blank">individual resilience after cybercrime (CHI'26)</a>
     </li>
     <li>
       <strong>Digital Harms in Online Ecosystems</strong>:
@@ -86,10 +86,16 @@ experience:
 
 
 awards:
+- name: Best Paper Award @CHI
+  date: 2026
+  organization: ACM Conference on Human Factors in Computing Systems
+- name: Best Paper Honorable Mention @CHI
+  date: 2026
+  organization: ACM Conference on Human Factors in Computing Systems
 - name: PhD Overseas Research Award
   date: 2025
   organization: HKUST
-- name: The Most Impactful Paper Award @SIGCHI GBA Pre-CHI
+- name: Most Impactful Paper Award @SIGCHI GBA Pre-CHI
   date: 2024
   organization: GBA HCI Forum
 - name: Impact Recognition Award @CSCW
